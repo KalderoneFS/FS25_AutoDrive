@@ -12,8 +12,8 @@ g_autoDriveIconFilename = g_iconsUIFilename
 AutoDrive.experimentalFeatures = {}
 -- AutoDrive.experimentalFeatures.telemetryOutput = false
 
-AutoDrive.automaticUnloadTarget = false
-AutoDrive.automaticPickupTarget = false
+AutoDrive.automaticUnloadTarget = true
+AutoDrive.automaticPickupTarget = true
 
 AutoDrive.dynamicChaseDistance = true
 AutoDrive.smootherDriving = true
